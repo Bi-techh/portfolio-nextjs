@@ -21,8 +21,10 @@ const nextConfig = {
     optimizeCss: true,
     serverActions: {
       bodySizeLimit: '2mb'
-    }
+    },
+    instrumentationHook: true,
   },
+  output: 'standalone',
   // Add transpilePackages for Sanity
   transpilePackages: ['@sanity/ui', '@sanity/icons', 'sanity'],
   typescript: {
