@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Music Icon</title>
+    <g id="Music-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21,3V15.5C21,17.43 19.43,19 17.5,19S14,17.43 14,15.5S15.57,12 17.5,12C17.86,12 18.21,12.07 18.54,12.18V6.33L9,8.6V17.5C9,19.43 7.43,21 5.5,21S2,19.43 2,17.5S3.57,14 5.5,14C5.86,14 6.21,14.07 6.54,14.18V4L21,3Z" fill="#2196F3"/>
+    </g>
+</svg>
